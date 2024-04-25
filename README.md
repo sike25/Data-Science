@@ -9,3 +9,5 @@ Ran EDA on news headlines retrieved from the [New York Times Archive API](https:
 
 ### Project Three: Cross Validation and CRISP-DM
 Using the [UCI Wine Quality Database](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv), we use ten-fold cross validation and the F1 score to assess hyperparamters for kNN and decision tress classifiers (number of neighbours, maximum depth). Then we write a 500 word essay on designing a CRISP-DM analysis for predicting the drop out rates for college freshmen. We explain its validaity as a data science problem, and possible ethical considerations with the project.
+
+### Project Four: Polynomial Regression and Neural Networks
