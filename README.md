@@ -12,3 +12,7 @@ Using the [UCI Wine Quality Database](https://archive.ics.uci.edu/ml/machine-lea
 
 ### Project Four: Polynomial Regression and Neural Networks
 Simulating data from some known probability distribution, to investigate how the degree of a polynomial regression and the size of the training set affects its performance (measured in root mean squared error). Then building a neural network to solve the [MNIST Image Dataset](https://keras.io/api/datasets/mnist/) and evaluating that model on some of my own handwritten digits.
+
+### Project Five:  
+Performing K-Means clustering on [Airbnb NYC listings](https://insideairbnb.com/get-the-data/) to group similar accommodations. We preprocessed the data by handling missing values, normalizing numerical features, and encoding categorical features. The optimal number of clusters (k=4) was determined using the Elbow Method and evaluated with the Silhouette Score. We visualized the clusters using both pair plots and PCA, ensuring a comprehensive understanding of the data structure and cluster distribution.
+
